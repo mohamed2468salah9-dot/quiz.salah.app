@@ -1,0 +1,10 @@
+{
+  "name": "Quiz Salah App",
+  "short_name": "Quiz Salah App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "An AI-powered web application for generating interactive quizzes and exams.",
+  "id": "com.quizsalah.app"
+}
