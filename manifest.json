@@ -1,10 +1,13 @@
 {
-  "name": "Quiz Salah App",
-  "short_name": "Quiz Salah App",
-  "start_url": "/",
-  "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "description": "An AI-powered web application for generating interactive quizzes and exams.",
-  "id": "com.quizsalah.app"
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "quizsalahapp",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "quizsalahapp",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.quizsalah.app",
+  "description": "An AI-powered web application for generating interactive quizzes and exams."
 }
